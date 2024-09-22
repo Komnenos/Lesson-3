@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    border: 3px red solid;
+    height: 75px;
+    background-color: #ebe714;
+    width: 75%;
+    margin: 0 50px 0 75px;
+}
+
+.link {
+    border: 3px #0aa817 solid;
+    height: 50px;
+    background-color: #290b99;
+    width: 50%;
+    margin: 15px 30px 0 180px;
+}
+
+.link2 {
+    border: 3px #ca0a64 solid;
+    height: 25px;
+    background-color: #0fb4dd;
+    width: 25%;
+    margin: 10px 20px 0 75px;
+}
